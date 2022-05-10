@@ -36,6 +36,9 @@ def dispRes(intResult):
     print("-----File comparison integer----")
     print("These two files have a similarity index of:", intResult)
     print("------End of json comparison----")
+
+
+
 # parses the cmd line argument and returns
 def parseCMDLineFileArg(args):
 

@@ -1,7 +1,6 @@
 # allows for cmd line args
 import argparse
-#parses the json
-import json
+
 
 
 #main
